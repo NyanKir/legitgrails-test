@@ -1,11 +1,11 @@
-## Available routes in postman folder
+## Available routes
 ```
-$ POST /users - create
-$ POST /users/balance - update balance
-$ GET /jobs - get unfinished jobs
+GET /tasks/:id - get task by id
 ```
 ## Quick start
-To switch between different version of nodesjs. You can use the utility:
+Node version: v20.10.0
+
+To switch between different version of node.js. You can use the utility:
 https://github.com/nvm-sh/nvm
 ```bash
 $ nvm use

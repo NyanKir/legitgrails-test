@@ -11,7 +11,7 @@ id,status,outcome,fake_outcome_reason,photos_to_resubmit,answer_time,date_create
 132,in-progress,,,,1440,1716358182,1716444582,
 133,in-progress,,,,1440,1716356581,1716442981,
 134,scheduled,authentic,,,720,1716356249,1716399449,
-135,scheduled,fake,serial-number,,720,1716356230,1716399430,
+135,scheduled,fake,serial-number,,720,1716356230,1716474285,
 136,update-needed,,,authenticity-card,120,1716355649,1716362849,
 137,closed,authentic,,,30,1716345233,1716347033,1716346679
 138,closed,fake,brand-logo,,30,1716345042,1716346842,1716346589
