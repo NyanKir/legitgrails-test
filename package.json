@@ -1,0 +1,27 @@
+{
+  "name": "legitgrails-test",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Kirill S",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "prettier": "prettier --write ./src",
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": "20.10.0",
+    "npm": "10.7.0"
+  }
+}
